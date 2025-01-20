@@ -26,7 +26,7 @@ Ensure that your environment meets the required version to run the Flashcard AI 
 
 
 2. **Run the Agent**
-    In the same environment, execute the FlashcardAgent.py script:
+    In the same project directory, execute the FlashcardAgent.py script:
 
     ```bash
    python FlashcardAgent.py
