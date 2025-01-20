@@ -11,9 +11,7 @@ Users can end the session by saying "stop," and the agent will provide a summary
 ## Prerequisites
 - Python version: **3.10+**
 
-Ensure that your environment meets the required version to run the Flashcard AI Trainer.
 
----
 
 ## Getting Started
 
